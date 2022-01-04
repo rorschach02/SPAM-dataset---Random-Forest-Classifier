@@ -1,5 +1,7 @@
 # SPAM E-mail : Random Forest Classifier
 
+In this project, I'll fit a series of random-forest classifiers to the SPAM data, to explore the sensitivity to m and plot OOB &amp; Test error.
+
 ## Dataset: 
 ### Description:
 A data set collected at Hewlett-Packard Labs, that classifies 4601 e-mails as spam or non-spam. In addition to this class label there are 57 variables indicating the frequency of certain words and characters in the e-mail.
